@@ -10,6 +10,7 @@ Files compatible with v3.4.0 and earlier will not work with this version and sho
 All changes
 -----------
 
+- Extend documentation on historical capacity and activity values (:pull:`598`)
 - Extend documentation on decision variables "CAP_NEW" and "CAP" (:pull:`595`)
 - Correct typo in GAMS formulation, :ref:`equation_renewables_equivalence` (:pull:`581`).
 - Handle zero values in ``capacity_factor`` in models with sub-annual time resolution; expand tests (:issue:`515`, :pull:`561`).
